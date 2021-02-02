@@ -16,6 +16,7 @@ public class SpringBootAppDemoApplication {
 		st.setName("jyoti");
 		st.setAge(25);
 		st.setAddrs("bbsr");
+		st.setAvg(78.09f);
 		System.out.println(st);
 	}
 
